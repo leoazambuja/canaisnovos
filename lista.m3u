@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP FHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP FHD
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP HD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP HD
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP FHD²" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP FHD²
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo HD
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ FHD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ FHD
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ HD
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ FHD²" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ FHD²
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="Globo RJ Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo HD
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG FHD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG FHD
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="Globo MG HD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG HD
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG FHD²" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG FHD²
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG Alternativo HD
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo MG Alternativo " tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG Alternativo 
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba FHD
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba HD²" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba HD²
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba Alternativo HD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba Alternativo HD
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Curitiba Alternativo" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba Alternativo
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Canais Globo",Globo RPC Foz do Iguaçu FHD
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20Igua%C3%A7u.png" group-title="Canais Globo",Globo RPC Foz do Iguaçu HD
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Maring%C3%A1.png" group-title="Canais Globo",Globo RPC Maringa FHD
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa HD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Maring%C3%A1.png" group-title="Canais Globo",Globo RPC Maringa HD
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="Globo RPC Maringa " tvg-logo="http://printv.esy.es/server/RPC%20TV%20Maring%C3%A1.png" group-title="Canais Globo",Globo RPC Maringa 
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC Cascavel FHD " tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Cascavel FHD 
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC Cascavel HD " tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Cascavel HD 
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RPC Cascavel " tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Cascavel 
+
+#EXTINF:-1 tvg-id="" tvg-name="A Casa das Brasileirinhas " tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="Canais Adultos",A Casa das Brasileirinhas 
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy FHD" tvg-logo="http://printv.esy.es/server/Playboy%20TV.png" group-title="Canais Adultos",Playboy FHD
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy HD" tvg-logo="http://printv.esy.es/server/Playboy%20TV.png" group-title="Canais Adultos",Playboy HD
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy" tvg-logo="http://printv.esy.es/server/Playboy%20TV.png" group-title="Canais Adultos",Playboy
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="Playboy Alternativo" tvg-logo="http://printv.esy.es/server/Playboy%20TV.png" group-title="Canais Adultos",Playboy Alternativo
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot FHD " tvg-logo="http://printv.esy.es/server/Sexy%20Hot.png" group-title="Canais Adultos",Sexy Hot FHD 
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot HD" tvg-logo="http://printv.esy.es/server/Sexy%20Hot.png" group-title="Canais Adultos",Sexy Hot HD
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot" tvg-logo="http://printv.esy.es/server/Sexy%20Hot.png" group-title="Canais Adultos",Sexy Hot
+#EXTINF:-1 tvg-id="sexy.hot.br" tvg-name="Sexy Hot Alternativo" tvg-logo="http://printv.esy.es/server/Sexy%20Hot.png" group-title="Canais Adultos",Sexy Hot Alternativo
+
+#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="Sex Prive FHD " tvg-logo="http://printv.esy.es/server/Sex%20Priv%C3%A9.png" group-title="Canais Adultos",Sex Prive FHD 
+#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="Sex Prive HD " tvg-logo="http://printv.esy.es/server/Sex%20Priv%C3%A9.png" group-title="Canais Adultos",Sex Prive HD 
+#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="Sex Prive " tvg-logo="http://printv.esy.es/server/Sex%20Priv%C3%A9.png" group-title="Canais Adultos",Sex Prive 
+#EXTINF:-1 tvg-id="Venus" tvg-name="Venus" tvg-logo="http://printv.esy.es/server/Venus.png" group-title="Canais Adultos",Venus
+#EXTINF:-1 tvg-id="Venus" tvg-name="Venus Alternativo" tvg-logo="http://printv.esy.es/server/Venus.png" group-title="Canais Adultos",Venus Alternativo
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="Sextreme" tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="Canais Adultos",Sextreme
+#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="Sextreme Alternativo" tvg-logo="http://printv.esy.es/server/Sextreme.png" group-title="Canais Adultos",Sextreme Alternativo
+#EXTINF:-1 tvg-id="HUSTLER HD" tvg-name="Hustler TV" tvg-logo="http://printv.esy.es/server/Hustler%20TV.png" group-title="Canais Adultos",Hustler TV
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler " tvg-logo="http://printv.esy.es/server/Hustler%20TV.png" group-title="Canais Adultos",Blue Hustler 
+#EXTINF:-1 tvg-id="PENTHOUSEHD1" tvg-name="Brazzers " tvg-logo="http://printv.esy.es/server/Brazzers.png" group-title="Canais Adultos",Brazzers 
+#EXTINF:-1 tvg-id="Private TV HD" tvg-name="Private Quickies" tvg-logo="http://printv.esy.es/server/Private.png" group-title="Canais Adultos",Private Quickies
+#EXTINF:-1 tvg-id="Dorcel TV HD" tvg-name="Dorcel TV" tvg-logo="http://printv.esy.es/server/Dorcel%20TV.png" group-title="Canais Adultos",Dorcel TV
+#EXTINF:-1 tvg-id="RedLight HD" tvg-name="Redlight " tvg-logo="http://printv.esy.es/server/Redlight.png" group-title="Canais Adultos",Redlight 
+#EXTINF:-1 tvg-id="" tvg-name="Erox " tvg-logo="http://printv.esy.es/server/Ero%20XXX.png" group-title="Canais Adultos",Erox 
+#EXTINF:-1 tvg-id="" tvg-name="Vivid TV Europe" tvg-logo="http://printv.esy.es/server/Vivid%20TV.png" group-title="Canais Adultos",Vivid TV Europe
+#EXTINF:-1 tvg-id="XXX 1" tvg-name="Brasileirinhas " tvg-logo="https://www.brasileirinhas.com.br/assets/img/logotipo.png" group-title="Canais Adultos",Brasileirinhas 
+#EXTINF:-1 tvg-id="STARS TV XXX" tvg-name="Canal Gay " tvg-logo="http://printv.esy.es/server/Gay%20Porn.png" group-title="Canais Adultos",Canal Gay 
+#EXTINF:-1 tvg-id="" tvg-name="Canal Gay 2 " tvg-logo="http://printv.esy.es/server/Gay%20Porn.png" group-title="Canais Adultos",Canal Gay 2 
+
+#EXTINF:-1 tvg-id="" tvg-name="TransTV " tvg-logo="http://printv.esy.es/server/Shemale%20Porn.png" group-title="Canais Adultos",TransTV 
+#EXTINF:-1 tvg-id="" tvg-name="TransTV 2" tvg-logo="http://printv.esy.es/server/Shemale%20Porn.png" group-title="Canais Adultos",TransTV 2
+#EXTINF:-1 tvg-id="XXX 1" tvg-name="Big Live 1" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 1
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="Big Live 2" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 2
+#EXTINF:-1 tvg-id="" tvg-name="Big Live 3 " tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 3 
+#EXTINF:-1 tvg-id="" tvg-name="Big Live 4" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 4
+#EXTINF:-1 tvg-id="" tvg-name="Big Live 5" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 5
+#EXTINF:-1 tvg-id="XXX 1" tvg-name="Big Live 6 " tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 6 
+#EXTINF:-1 tvg-id="XXX 1" tvg-name="Big Live 7 " tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 7 
+#EXTINF:-1 tvg-id="XXX 1 HD" tvg-name="Big Live 8 " tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 8 
+#EXTINF:-1 tvg-id="XXX5 HD" tvg-name="Big Live 9 " tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 9 
+#EXTINF:-1 tvg-id="Dorcel XXX" tvg-name="Big Live 10 " tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",Big Live 10 
+#EXTINF:-1 tvg-id="XXX 1" tvg-name="XXX 1" tvg-logo="http://printv.esy.es/server/Canal%20Adulto.png" group-title="Canais Adultos",XXX 1
